@@ -1,0 +1,12 @@
+{
+  "name": "djskit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": "https://github.com/djskit/djskit.git",
+  "author": "Purplex <69113871+HaloKodein@users.noreply.github.com>",
+  "license": "MIT"
+}
